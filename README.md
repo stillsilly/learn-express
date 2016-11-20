@@ -1,10 +1,17 @@
+```bash
 node express_demo.js 
+```
 hello world
 
+```bash
 node express_demo2.js
+```
 路由
 
+```bash
 node express_demo3.js
+```
+
 访问静态文件
 ```bash
 node server.js
